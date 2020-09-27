@@ -20,3 +20,6 @@ I started adding the timeblocks from 9am to 5pm
 I started working on the formula for the local storage an I did it for all the hours
 ![javascript](images/javascript.png)
 
+## Color Rows
+For this part of the deliverable, I added if statements and changed the background as the time goes up
+![color-rows](images/colorRows.png)
