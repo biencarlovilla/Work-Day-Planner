@@ -15,3 +15,8 @@ What I did first is I added the date and time using moment.js
 I started adding the timeblocks from 9am to 5pm
 
 ![Planner](images/planner.png)
+
+## Local Storage
+I started working on the formula for the local storage an I did it for all the hours
+[javascript](images/javascript.png)
+
