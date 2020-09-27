@@ -18,5 +18,5 @@ I started adding the timeblocks from 9am to 5pm
 
 ## Local Storage
 I started working on the formula for the local storage an I did it for all the hours
-[javascript](images/javascript.png)
+![javascript](images/javascript.png)
 
