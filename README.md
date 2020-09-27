@@ -30,6 +30,7 @@ For this part of the deliverable, I added if statements and changed the backgrou
 * [Bootstrap](https://getbootstrap.com/docs/4.5/components/alerts/)
 * [jQueary](https://jquery.com/)
 * [W33School](https://www.w3schools.com/)
+* [moments.js](https://momentjs.com/)
 
 ## Deployed Link
 * [About-Me](https://biencarlovilla.github.io/Work-Day-Planner/)
