@@ -23,3 +23,16 @@ I started working on the formula for the local storage an I did it for all the h
 ## Color Rows
 For this part of the deliverable, I added if statements and changed the background as the time goes up
 ![color-rows](images/colorRows.png)
+
+## Built With
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Bootstrap](https://getbootstrap.com/docs/4.5/components/alerts/)
+* [jQueary](https://jquery.com/)
+* [W33School](https://www.w3schools.com/)
+
+## Deployed Link
+* [About-Me](https://biencarlovilla.github.io/Work-Day-Planner/)
+
+## Author
+* Biencarlo Villa
