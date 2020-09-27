@@ -4,11 +4,7 @@ body {
   font-size: 16px;
   line-height: 1;
 }
-.container calendar {
-  margin-top: 5%;
-  display: grid;
-  align-content: center;
-}
+
 .form-group {
   margin-bottom: 0;
 }
@@ -16,4 +12,24 @@ body {
 #Time {
   font-size: 16px;
   font-weight: bold;
+}
+.containerCal {
+  margin-top: 5%;
+  display: grid;
+  align-content: center;
+}
+
+.col {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+.container {
+  display: grid;
+  align-items: center;
+}
+.btn-outline-dark {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 400;
 }
